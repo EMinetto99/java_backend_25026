@@ -1,0 +1,26 @@
+[ {
+  "id" : 0,
+  "nombre" : "Hugo Uriel",
+  "codigo" : 23,
+  "descripcion" : "Un laburador"
+}, {
+  "id" : 1,
+  "nombre" : "Pedro",
+  "codigo" : 3423,
+  "descripcion" : "Trabajador"
+}, {
+  "id" : 2,
+  "nombre" : "Juan Juarez",
+  "codigo" : 1224,
+  "descripcion" : "Reparación"
+}, {
+  "id" : 3,
+  "nombre" : "Pablo Paez",
+  "codigo" : 14,
+  "descripcion" : "Dibulgador"
+}, {
+  "id" : 5,
+  "nombre" : "Ricardo L.",
+  "codigo" : 40,
+  "descripcion" : "Manitas"
+} ]

@@ -1,3 +1,4 @@
+package main;
 
 // Clase base Articulo con encapsulamiento
 public class Articulo {
